@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PSd2igjRkmIvyIQFp9WjfjEm8980l+PZ89YyeGpCDRmFmLtrCfwa8CfaxyH85BdI0ikrT+d+OCAREnQKuGK+gw==",
+  "success": true,
+  "projectFilePath": "D:\\www\\__Labs\\MyMQTT\\source\\MQTTSubscriber\\MQTTSubscriber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fij\\.nuget\\packages\\mqttnet\\4.1.0.247\\mqttnet.4.1.0.247.nupkg.sha512"
+  ],
+  "logs": []
+}
